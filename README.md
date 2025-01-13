@@ -1,1 +1,1 @@
-введение - https://drive.google.com/drive/u/1/folders/1CSXKZTP6Hd7pO4QhJ2-wukrg9d9jLheA
+введение - https://colab.research.google.com/drive/1qExI-TsGu04Uc0yIYIpjj1G-HVJQ2Hrj?usp=sharing
